@@ -1,0 +1,6 @@
+[submodule "kickstart.nvim"]
+	path = kickstart.nvim
+	url = https://github.com/Aquel98/kickstart.nvim.git
+[submodule "neovim/.config/nvim"]
+	path = neovim/.config/nvim
+	url = https://github.com/Aquel98/kickstart.nvim.git
